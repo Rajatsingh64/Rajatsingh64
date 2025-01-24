@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/singh64_k" target="blank"><img src="https://img.shields.io/twitter/follow/singh64_k?logo=twitter&style=for-the-badge" alt="singh64_k" /></a> </p>
 
-- 🔭 I’m currently working at **Unified Mentor**
-
 - 🌱 I’m currently learning **Data Science , Deep learning and Computer Vision**
 
 - 📝 I regularly post on [https://www.linkedin.com/in/rajat-singh-292124240](https://www.linkedin.com/in/rajat-singh-292124240)

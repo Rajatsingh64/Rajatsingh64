@@ -36,10 +36,24 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjsingh64&" alt="rjsingh64" /></p
 
-<div align="center">
-    <h1>RJSINGH64</h1>
-    <img src="https://github.com/RJSINGH64/RJSINGH64/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation">
+<div align="center" style="
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: auto;
+">
+    <h1 style="
+        font-family: Arial, sans-serif;
+        color: #333;
+    ">🐍 RJSINGH64 - GitHub Snake Animation 🐍</h1>
+    
+    <img src="https://github.com/RJSINGH64/RJSINGH64/blob/output/github-snake-dark.svg" 
+         alt="GitHub Snake Animation" 
+         style="max-width: 100%; border-radius: 10px;">
 </div>
+
 
 
 

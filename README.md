@@ -36,6 +36,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjsingh64&" alt="rjsingh64" /></p
 
+<div align="center">
+    <h1>RJSINGH64</h1>
+    <img src="https://github.com/RJSINGH64/RJSINGH64/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation">
+</div>
+
+
 
                                                                                                                    
                                                                                                                    

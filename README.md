@@ -36,6 +36,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjsingh64&" alt="rjsingh64" /></p
 
-![GitHub Snake](https://github.com/RJSINGH64/RJSINGH64/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+### 🐍 GitHub Contribution Snake
+![GitHub Snake](https://github.com/RJSINGH64/RJSINGH64/blob/output/github-snake.svg)
+
                                                                                                                    
                                                                                                                    

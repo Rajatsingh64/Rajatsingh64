@@ -154,7 +154,121 @@
 <div align="center">
     <img src="https://github.com/Rajatsingh64/Rajatsingh64/blob/output/github-snake.svg" alt="GitHub Snake Animation">
 </div>
+<h2 style="text-align: center; font-size: 24px;"> Data Science Roadmap</h2>
 
+<div style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
+
+  <!-- Python Basics and Advance-->
+  <div>
+    <h3 style="font-size: 16px; text-align: center;">🐍 Python Basics</h3>
+    <a href="https://www.python.org">
+      <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" alt="Python" style="height: 30px; width: 120px;">
+    </a>
+  </div>
+
+  <!-- Data Manipulation -->
+  <div>
+    <h3 style="font-size: 16px; text-align: center;">📊 Data Manipulation</h3>
+    <a href="https://pandas.pydata.org">
+      <img src="https://img.shields.io/badge/Pandas-green?style=flat&logo=pandas&logoColor=white" alt="Pandas" style="height: 30px; width: 120px;">
+    </a>
+    <a href="https://numpy.org">
+      <img src="https://img.shields.io/badge/Numpy-lightgreen?style=flat&logo=numpy&logoColor=white" alt="Numpy" style="height: 30px; width: 120px;">
+    </a>
+  </div>
+
+  <!-- Data Visualization -->
+  <div>
+    <h3 style="font-size: 16px; text-align: center;">📈 Data Visualization</h3>
+    <a href="https://matplotlib.org">
+      <img src="https://img.shields.io/badge/Matplotlib-blue?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" style="height: 30px; width: 120px;">
+    </a>
+    <a href="https://seaborn.pydata.org">
+      <img src="https://img.shields.io/badge/Seaborn-darkblue?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" style="height: 30px; width: 120px;">
+    </a>
+    <a href="https://plotly.com">
+      <img src="https://img.shields.io/badge/Plotly-blue?style=flat&logo=plotly&logoColor=white" alt="Plotly" style="height: 30px; width: 120px;">
+    </a>
+  </div>
+
+  <!-- Machine Learning -->
+  <div>
+    <h3 style="font-size: 16px; text-align: center;">🧠 Machine Learning</h3>
+    <a href="https://scikit-learn.org">
+      <img src="https://img.shields.io/badge/Scikit--learn-yellow?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" style="height: 30px; width: 120px;">
+    </a>
+    <a href="https://xgboost.ai">
+      <img src="https://img.shields.io/badge/XGBoost-red?style=flat&logo=xgboost&logoColor=white" alt="XGBoost" style="height: 30px; width: 120px;">
+    </a>
+    <a href="https://imbalanced-learn.org">
+      <img src="https://img.shields.io/badge/imblearn-blue?style=flat&logo=python&logoColor=white" alt="imlearn" style="height: 30px; width: 120px;">
+    </a>
+  </div>
+
+  <!-- Deep Learning -->
+  <div>
+    <h3 style="font-size: 16px; text-align: center;">🤖 Deep Learning</h3>
+    <a href="https://www.tensorflow.org">
+      <img src="https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" style="height: 30px; width: 120px;">
+    </a>
+    <a href="https://keras.io">
+      <img src="https://img.shields.io/badge/Keras-darkorange?style=flat&logo=keras&logoColor=white" alt="Keras" style="height: 30px; width: 120px;">
+    </a>
+  </div>
+
+  <!-- Computer Vision -->
+  <div>
+    <h3 style="font-size: 16px; text-align: center;">🖼️ Computer Vision</h3>
+    <a href="https://opencv.org">
+      <img src="https://img.shields.io/badge/OpenCV-purple?style=flat&logo=opencv&logoColor=white" alt="OpenCV" style="height: 30px; width: 120px;">
+    </a>
+    <a href="https://python-pillow.org">
+      <img src="https://img.shields.io/badge/Pillow-purple?style=flat&logo=pillow&logoColor=white" alt="Pillow" style="height: 30px; width: 120px;">
+    </a>
+  </div>
+
+  <!-- Cloud & Deployment -->
+  <div>
+    <h3 style="font-size: 16px; text-align: center;">☁️ Deployment & Cloud</h3>
+    <a href="https://www.docker.com">
+      <img src="https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white" alt="Docker" style="height: 30px; width: 120px;">
+    </a>
+    <a href="https://aws.amazon.com">
+      <img src="https://img.shields.io/badge/AWS-darkblue?style=flat&logo=aws&logoColor=white" alt="AWS" style="height: 30px; width: 120px;">
+    </a>
+    <a href="https://cloud.google.com">
+      <img src="https://img.shields.io/badge/Google_Cloud-lightblue?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud" style="height: 30px; width: 120px;">
+    </a>
+    <a href="https://azure.microsoft.com">
+      <img src="https://img.shields.io/badge/Azure-darkblue?style=flat&logo=azure&logoColor=white" alt="Azure" style="height: 30px; width: 120px;">
+    </a>
+    <a href="https://render.com">
+      <img src="https://img.shields.io/badge/Render-lightgray?style=flat&logo=render&logoColor=white" alt="Render" style="height: 30px; width: 120px;">
+    </a>
+  </div>
+
+  <!-- Data Integration -->
+  <div>
+    <h3 style="font-size: 16px; text-align: center;">🔗 Data Integration</h3>
+    <a href="https://www.mongodb.com">
+      <img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" style="height: 30px; width: 120px;">
+    </a>
+    <a href="https://www.mysql.com">
+      <img src="https://img.shields.io/badge/MySQL-lightblue?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="height: 30px; width: 120px;">
+    </a>
+    <a href="https://cloud.google.com/bigquery">
+      <img src="https://img.shields.io/badge/BigQuery-darkblue?style=flat&logo=googlebigquery&logoColor=white" alt="BigQuery" style="height: 30px; width: 120px;">
+    </a>
+  </div>
+
+  <!-- MLOps -->
+  <div>
+    <h3 style="font-size: 16px; text-align: center;">🔄 MLOps</h3>
+    <a href="https://airflow.apache.org">
+      <img src="https://img.shields.io/badge/Apache--Airflow-lightblue?style=flat&logo=apache-airflow&logoColor=white" alt="Apache Airflow" style="height: 30px; width: 120px;">
+    </a>
+  </div>
+</div>
 
 
 

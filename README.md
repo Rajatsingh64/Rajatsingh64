@@ -34,7 +34,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatsingh64&show_icons=true&locale=en" alt="rajatsingh64" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajatsingh64)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=rajatsingh64" alt="GitHub Streak" />
+</div>
 
 <div align="center">
     <img src="https://github.com/Rajatsingh64/Rajatsingh64/blob/output/github-snake.svg" alt="GitHub Snake Animation">

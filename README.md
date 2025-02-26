@@ -154,18 +154,18 @@
 <div align="center">
     <img src="https://github.com/Rajatsingh64/Rajatsingh64/blob/output/github-snake.svg" alt="GitHub Snake Animation">
 </div>
-<h2 style="text-align: center; font-size: 24px;"> Data Science Roadmap</h2>
+<h2 style="text-align: center; font-size: 24px;">🚀 Data Science Roadmap</h2>
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
 
   <!-- Python Basics and Advance-->
   <div>
-    <h3 style="font-size: 16px; text-align: center;">🐍 Python Basics</h3>
+    <h3 style="font-size: 16px; text-align: center;">🐍 Python Basic and Advanced </h3>
     <a href="https://www.python.org">
       <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" alt="Python" style="height: 30px; width: 120px;">
     </a>
   </div>
-
+  
   <!-- Data Manipulation -->
   <div>
     <h3 style="font-size: 16px; text-align: center;">📊 Data Manipulation</h3>

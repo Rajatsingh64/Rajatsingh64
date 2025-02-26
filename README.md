@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Data Science , Deep learning and Computer Vision**
 
-- 📝 I regularly post on [https://www.linkedin.com/in/rajat-singh-292124240](https://www.linkedin.com/in/rajat-singh-292124240)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-singh-292124240)
 
 - 💬 Ask me about **Python , Machine Learning and Statistics**
 
-- 📫 How to reach me **rajat.k.singh64@gmail.com**
+- [![Email Me](https://img.shields.io/badge/Email-rajat.k.singh64@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajat.k.singh64@gmail.com)
 
 - ⚡ Fun fact **I am part-time Youtuber**
 

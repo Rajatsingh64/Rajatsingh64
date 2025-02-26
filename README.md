@@ -141,23 +141,6 @@
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/>
 </a>
-<!-- Matplotlib -->
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://miro.medium.com/v2/resize:fit:600/0*0ObKQQmRcgMdKrXp.png" alt="matplotlib" width="40" height="40"/>
-</a>
-<!-- Seaborn -->
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/seaborn-mazs5fsvs6lluqsnmeik89.png/seaborn-b4pddoh3hfg4k85ug0oazo.png?_a=DAJFJtWIZAAC" alt="seaborn" width="40" height="40"/>
-</a>
-<!-- Plotly -->
-<a href="https://plotly.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/>
-</a>
-<!-- Flask -->
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX9qg6mhCsr4kfMhS_1aHa85AYBz9SWrmcTg&s" alt="flask" width="40" height="40"/>
-</a>
-
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsingh64&show_icons=true&locale=en&layout=compact" alt="rajatsingh64" /></p>

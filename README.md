@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Rajat</h1>
-<h3 align="center">Data Science , Ai Enthusiast</h3>
+<h3 align="center">Data Science | AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsingh64&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsingh64" /> </p>
 

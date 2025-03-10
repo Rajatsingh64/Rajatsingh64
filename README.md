@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Rajat</h1>
 <h3 align="center">Data Science | AI Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00773b43b2e53bfc4549_60d35967a853a1b14851703b_All%2520the%2520data%2520(1).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsingh64&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsingh64" /> </p>
 
 <p align="left"> <a href="https://twitter.com/singh64_k" target="blank"><img src="https://img.shields.io/twitter/follow/singh64_k?logo=twitter&style=for-the-badge" alt="singh64_k" /></a> </p>

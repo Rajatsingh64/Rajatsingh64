@@ -215,9 +215,6 @@
     <a href="https://opencv.org">
       <img src="https://img.shields.io/badge/OpenCV-purple?style=flat&logo=opencv&logoColor=white" alt="OpenCV" style="height: 30px; width: 120px;">
     </a>
-    <a href="https://python-pillow.org">
-      <img src="https://img.shields.io/badge/Pillow-purple?style=flat&logo=pillow&logoColor=white" alt="Pillow" style="height: 30px; width: 120px;">
-    </a>
   </div>
 
   <!-- Cloud & Deployment -->
